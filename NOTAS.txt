@@ -40,5 +40,19 @@ Found 20 packages matching pandas
 Showing the first 10 matches
 
 
+para iniciar git en la carpeta, vamos a la ruta del proyecto en el prompt de anaconda y escribimos
+
+
+git init
+git branch -M main
+git status git add .
+
+git commit -m "[Mi primer commit]"
+
+git config --global user.email "liavilla0930@hotmail.com"
+git config --global user.name "autumnliaves"
+
+
+git config --global user.name
 
 
