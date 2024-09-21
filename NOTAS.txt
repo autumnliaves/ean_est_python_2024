@@ -1,7 +1,7 @@
 conda env list   ---> lista de ambientes
 
 
-conda create -n **nombre** ---> crear un nuevo ambiente
+conda create -n mi_primer_ambiente ---> crear un nuevo ambiente
 
 conda activate mi_primer_ambiente ---> activar el ambiente
 
